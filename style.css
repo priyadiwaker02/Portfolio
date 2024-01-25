@@ -35,7 +35,7 @@ html, body{
 .page1{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(8deg, rgba(7, 7, 7, 0.847), rgba(0, 0, 0, 0.79)), url(images/photo-1580927752452-89d86da3fa0a.avif);
+    background: linear-gradient(8deg, rgba(7, 7, 7, 0.847), rgba(0, 0, 0, 0.79)), url(photo-1580927752452-89d86da3fa0a.avif);
     background-size: cover;
     background-position: top;
     position: fixed;
